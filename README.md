@@ -11,8 +11,3 @@ Cualquier petición de colaboración es bienvenida y estoy dispuesto a trabajar 
 - Juego 2D en página web
 - Juego 3D de escritorio
 - Algún proyecto universitario
-
-## Contactos
-[Twitter](https://twitter.com/tetris_rubik)
-
-[Instagram](https://www.instagram.com/tetris_rubik)
