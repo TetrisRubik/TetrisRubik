@@ -8,10 +8,10 @@
 >[![🇨🇳](/banderas/cn.png "中文")](/idiomas/中文.md)
 >[![🇰🇷](/banderas/kr.png "한국어")](/idiomas/한국어.md)
 
-# Sobre la cuenta
+# About the account
 
-Esta cuenta es solo un lugar que usaré para subir en repositorios mis trabajos a modo de línea temporal para autocalificar mi avance profesional. Igualmente se tiene pensado interactuar y colaborar con otros repositorios y usuarios para poder conseguir la experiencia de equipo necesaria que hace falta para ser un buen ingeniero software.
+This account is just a place I'll use to upload some of my works as repositories, like a timeline of my professional career. Thus, I'd like to interact with other repositories and users so I can gain any teamwork experience as I grow as real software engineer.
 
-Cualquier petición de participación es bienvenida y estoy dispuesto a trabajar en cualquier clase de proyecto.
+Any petition of collab is welcome and I'm very pleased to help you in any kind of project.
 
 ;)
